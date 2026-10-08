@@ -1,0 +1,14 @@
+# Any survey data you point the notebook at — never commit
+data/
+*.sav
+*.dta
+
+# Generated
+*.html
+lca_blueprint_cache/
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
