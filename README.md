@@ -14,7 +14,6 @@ No survey data is included: the notebook runs on a synthetic dataset built
 with a known four-class structure, so every method below can be checked
 against a ground truth before you point it at real data.
 
-**[→ Read the rendered notebook](lca_blueprint.md)**
 
 ## What it covers
 
